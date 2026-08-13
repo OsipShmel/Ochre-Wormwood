@@ -1,0 +1,18 @@
+# --- Apple / macOS мусор ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# --- Внутренний кэш и настройки Obsidian ---
+**/.obsidian/workspace.json
+**/.obsidian/graph.json
+**/.obsidian/sync-local-log.txt
+**/.obsidian/plugins/**/*.log
+**/.obsidian/cache/
+
+# --- Локальные черновики и системный мусор ---
+.trash/
+*.tmp
+*.bak
+.lock
